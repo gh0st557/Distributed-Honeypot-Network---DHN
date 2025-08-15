@@ -1,1 +1,1 @@
-# Distributed-Honeypot-Network---DHN
+# Distributed Honeypot Network
